@@ -8,7 +8,7 @@ Here's a glimpse into my journey:
 
 ## 🛠️ Projects
 
-### *Pollution-Free City*  
+### **Pollution-Free City**  
 
 **OVERVIEW:**  
 
