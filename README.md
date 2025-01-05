@@ -7,12 +7,16 @@ Here's a glimpse into my journey:
 
 
 ## 🛠️ Projects
+
 ### *Pollution-Free City*  
 
 *Overview:*  
 -*Efficient Navigation:* Provide optimized, eco-friendly transportation using electric vehicles, bicycles, and shuttles, supported by real-time traffic and route updates.
--*Resource Management:*Dynamically allocate transportation and maintenance resources using advanced algorithms for peak efficiency.
+
+-*Resource Management:* Dynamically allocate transportation and maintenance resources using advanced algorithms for peak efficiency.
+
 -*Environmental Monitoring:* Deploy IoT sensors for real-time tracking of air and noise pollution, enabling proactive measures.
+
 -*User-Friendly Interface:* Develop accessible apps and dashboards for tourists, residents, and administrators for seamless interaction.
 
 *Technical Stack:*  
@@ -22,15 +26,22 @@ Here's a glimpse into my journey:
 
 *Impact:*  
 - *Environmental Preservation:*Reduces air and noise pollution to protect Matheran’s natural environment and biodiversity.
+
 -*Enhanced Mobility:*Offers eco-friendly, congestion-free transportation, improving accessibility for residents and tourists.
+
 -*Economic Boost:*Drives eco-tourism growth and optimizes resource use for cost-effective, sustainable development.
+
 -*Health and Lifestyle Benefits:*Promotes cleaner air, quieter surroundings, and active lifestyles through non-motorized transport.
+
 -*Global Benchmark for Sustainability:*Establishes Matheran as a leading example of eco-conscious urban planning and tourism.
 
 ## 🚀 *Skills*  
 - Proficient in *C++, **Java, and **Python*.  
+
 - Strong grasp of *Data Structures and Algorithms*.  
+
 - Expertise in problem-solving through advanced *DAA techniques*.  
+
 - Experience with *project development* and *team collaboration*.  
 
 
