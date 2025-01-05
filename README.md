@@ -36,7 +36,7 @@ Here's a glimpse into my journey:
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/feed/)
+- [LinkedIn](https://www.linkedin.com/in/h-b-samruddi-5a0372306/)
 
 ## Portfolio Highlights
 
