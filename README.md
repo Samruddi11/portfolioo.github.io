@@ -53,7 +53,7 @@ Here's a glimpse into my journey:
 
 ### 📋 **Details:**
 
-- **Course Name:**Algorithms Lab 
+- **Course Name:** Algorithms Lab 
 - **Course Code:** CS301  
 - **Name:** H B Samruddi 
 - **SRN:** 02FE23BCI052  
