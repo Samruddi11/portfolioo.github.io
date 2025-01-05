@@ -10,10 +10,10 @@ Here's a glimpse into my journey:
 ### *Pollution-Free City*  
 
 *Overview:*  
-1.*Efficient Navigation:* Provide optimized, eco-friendly transportation using electric vehicles, bicycles, and shuttles, supported by real-time traffic and route updates.
-2.*Resource Management:*Dynamically allocate transportation and maintenance resources using advanced algorithms for peak efficiency.
-3.*Environmental Monitoring:* Deploy IoT sensors for real-time tracking of air and noise pollution, enabling proactive measures.
-4.*User-Friendly Interface:* Develop accessible apps and dashboards for tourists, residents, and administrators for seamless interaction.
+-*Efficient Navigation:* Provide optimized, eco-friendly transportation using electric vehicles, bicycles, and shuttles, supported by real-time traffic and route updates.
+-*Resource Management:*Dynamically allocate transportation and maintenance resources using advanced algorithms for peak efficiency.
+-*Environmental Monitoring:* Deploy IoT sensors for real-time tracking of air and noise pollution, enabling proactive measures.
+-*User-Friendly Interface:* Develop accessible apps and dashboards for tourists, residents, and administrators for seamless interaction.
 
 *Technical Stack:*  
 - *Languages:* C++, Java  
